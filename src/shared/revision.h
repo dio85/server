@@ -27,9 +27,9 @@
     #define REVISION_NR "2111001"
 
     #define REALMD_DB_VERSION_NR 21
-    #define REALMD_DB_STRUCTURE_NR 2
-    #define REALMD_DB_CONTENT_NR 001
-    #define REALMD_DB_UPDATE_DESCRIPTION "Add_Field_Comments"
+    #define REALMD_DB_STRUCTURE_NR 4
+    #define REALMD_DB_CONTENT_NR 1
+    #define REALMD_DB_UPDATE_DESCRIPTION "fix account table errors"
 
     #define CHAR_DB_VERSION_NR 21
     #define CHAR_DB_STRUCTURE_NR 4
@@ -37,7 +37,7 @@
     #define CHAR_DB_UPDATE_DESCRIPTION "Add_Field_Comments"
 
     #define WORLD_DB_VERSION_NR 21
-    #define WORLD_DB_STRUCTURE_NR 13
-    #define WORLD_DB_CONTENT_NR 001
-    #define WORLD_DB_UPDATE_DESCRIPTION "GM_Commands_localization"
+    #define WORLD_DB_STRUCTURE_NR 11
+    #define WORLD_DB_CONTENT_NR 83
+    #define WORLD_DB_UPDATE_DESCRIPTION "Warbringer ArixAmal"
 #endif // __REVISION_H__
